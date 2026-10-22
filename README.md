@@ -1,4 +1,4 @@
-# 🚀 VITALS — Astronaut Health Monitor
+# VITALS — Astronaut Health Monitor
 
 **An intelligent decision-support dashboard for astronaut health monitoring during long-duration space missions.**
 
@@ -10,7 +10,7 @@ Built for the **2026 NASA Space Apps Challenge**
 
 ---
 
-## 🌌 Overview
+##  Overview
 
 Long-duration space missions expose astronauts to several health risks, including radiation exposure, bone density loss, cardiovascular deconditioning, immune system changes, sleep deficiency, and psychological stress.
 
@@ -20,7 +20,7 @@ By combining vital telemetry, mission scenarios, risk alerts, and health history
 
 > **Our mission:** Monitor astronaut health, identify potential risks early, and support informed decisions during space exploration.
 
-## 🎯 The Challenge
+##  The Challenge
 
 Astronauts on long-duration missions need an effective way to identify changes in their physical and behavioral health before minor issues become serious.
 
@@ -33,7 +33,7 @@ VITALS addresses this challenge by providing a centralized dashboard to:
 - Record responses and flight-surgeon notes.
 - Review mission health trends over time.
 
-## ✨ Key Features
+##  Key Features
 
 ### 1. Mission Health Overview
 
@@ -168,7 +168,7 @@ This enables a foundation for collaboration between crew members and mission sup
 | Data Import | CSV |
 | Deployment | Render Web Services |
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 VITALS/
@@ -228,7 +228,7 @@ If MySQL is not running or configured, VITALS is designed to fall back to offlin
 
 ---
 
-## 🗄️ Optional MySQL Configuration
+##  Optional MySQL Configuration
 
 To enable database-backed persistence and collaboration, configure a local `.env` file in the project root.
 
@@ -257,7 +257,7 @@ If MySQL is unavailable, database-backed endpoints will not work even though the
 
 ---
 
-## 🚀 Deployment on Render
+##  Deployment on Render
 
 VITALS can be deployed as a Render Web Service.
 
@@ -282,7 +282,7 @@ VITALS can be deployed as a Render Web Service.
 
 ---
 
-## 🔬 Data Sources and Scientific Inspiration
+##  Data Sources and Scientific Inspiration
 
 VITALS is inspired by publicly available NASA research and spaceflight health research.
 
@@ -313,7 +313,7 @@ These sources inform the project's design concepts. Their mention does not imply
 
 ---
 
-## 📊 Evaluation and Demonstration
+##  Evaluation and Demonstration
 
 VITALS can be demonstrated through controlled scenarios:
 
@@ -343,7 +343,7 @@ Evaluation should distinguish between software functionality, the consistency of
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 VITALS is a hackathon prototype and educational decision-support interface.
 
@@ -353,7 +353,7 @@ The dashboard's simulated values, thresholds, scenarios, and alerts are not subs
 
 ---
 
-## 📜 License
+##  License
 
 No license has been selected yet.
 
@@ -363,7 +363,7 @@ If you select MIT, add a `LICENSE` file containing the appropriate license text 
 
 ---
 
-## 🌟 Acknowledgments
+##  Acknowledgments
 
 We acknowledge NASA's publicly available spaceflight research resources and the NASA Space Apps Challenge for inspiring us to explore practical solutions for astronaut health monitoring.
 
